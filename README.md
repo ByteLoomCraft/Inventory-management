@@ -53,7 +53,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tharumax123/MERN-Inventory-Management-System.git
+   git clone 
    cd merninventory
    ```
 
@@ -114,15 +114,3 @@ To run this project locally, follow these steps:
 Contributing
 
 Contributions are welcome! If you find bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
-
- License
-
-This project is licensed under the MIT License.
-
-Contact
-
-For any questions or feedback, feel free to contact me:
-
-- Email: your-tharushabishan8@gmail.com
-- GitHub: [https://github.com/tharumax123]
-
