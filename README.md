@@ -101,15 +101,6 @@ To run this project locally, follow these steps:
  Screenshots
 ![image](https://github.com/user-attachments/assets/059dc76f-836e-438d-b9d3-adba90b79b7a)
 ![image](https://github.com/user-attachments/assets/28454e0b-11e2-4667-925a-346e650095b7)
-![image](https://github.com/user-attachments/assets/03f4a0bd-fa51-4279-95d2-256a7f0d7b6a)
-![image](https://github.com/user-attachments/assets/66523877-57ff-4a02-bd57-cef353bc2590)
-![image](https://github.com/user-attachments/assets/5b95ee0c-c293-48d1-a97b-6cb61e7b42a4)
-![image](https://github.com/user-attachments/assets/cc921ed0-33ef-454d-8c22-bdb02863721d)
-![image](https://github.com/user-attachments/assets/d648616f-987f-4b8f-ac4e-a52716a1f48d)
-![image](https://github.com/user-attachments/assets/871b896b-ebfd-4362-975b-9dad7096087b)
-![image](https://github.com/user-attachments/assets/089160ef-8948-4a99-8bac-15c468e88fa6)
-![image](https://github.com/user-attachments/assets/d005ba0a-8aa2-4cb9-bc70-72c00da208a1)
-![image](https://github.com/user-attachments/assets/2770f14a-5558-4378-a219-13c719f3ff84)
 
 Contributing
 
